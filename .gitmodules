@@ -1,0 +1,12 @@
+[submodule "sonnh"]
+	path = sonnh
+	url = https://github.com/sonnh296/sonnh.git
+[submodule "sonnhapi"]
+	path = sonnhapi
+	url = https://github.com/sonnh296/sonnhapi.git
+[submodule "myblog-ansible"]
+	path = myblog-ansible
+	url = https://github.com/sonnh296/myblog-ansible.git
+[submodule "sonnh-terraform"]
+	path = sonnh-terraform
+	url = https://github.com/sonnh296/sonnh-terraform.git
