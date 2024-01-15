@@ -1,5 +1,5 @@
 
-## Blogs Application - sonnh
+## Blogs Application - sonnh (This repo is module includes 4 sub-repositories)
 
 In this project, I use technologies in this table:
 
